@@ -1,5 +1,3 @@
-# 42cursus - Born2beroot
-
 <h1 align="center">
 	Born2beroot
 </h1>
